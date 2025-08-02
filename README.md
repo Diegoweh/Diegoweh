@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a **Web Designer** with a passion for creating beautiful and user-friendly websites. My work focuses on delivering modern, responsive, and accessible web experiences that engage users and meet client goals.
+I'm a **Front-end developer** with a passion for creating beautiful and user-friendly web apps. My work focuses on delivering modern, responsive, and accessible web experiences that engage users and meet client goals.
 
 ## What I Do:
 - 🌐 **Website Design:** Crafting visually appealing and intuitive designs.
